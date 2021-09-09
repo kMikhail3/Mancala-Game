@@ -3,7 +3,6 @@
  * ICS 3U1
  * Programmer: Mike Kim
  * Date: January 2nd, 2020.
- * Application file with prompts (Non GUI version). 
  */
 package culminatingTask;
 import java.util.Scanner;
